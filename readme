@@ -1,0 +1,22 @@
+-Setup environment variable WHEREUAT_ENV to development or production
+- From api directory (Not sure if it matters)  run:
+  docker volume create --name rethinkdata
+- From web directory run:
+  docker build --tag whereuatv2/web .
+- From api directory:
+  docker-compose build
+  docker-compose up -d
+
+From website directory run:
+  development locally:
+    docker build --tag whereuatv2/web --file development.Dockerfile .
+  production:
+    docker build --tag whereuatv2/web .
+  docker build --tag whereuatv2/web . --build-arg target=development 
+  docker build --tag whereuatv2/web . --build-arg target=production
+
+
+
+NOTES:
+  - Bashing into web container
+    docker exec -it api_web-1_1 /bin/sh

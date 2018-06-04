@@ -1,0 +1,6599 @@
+[
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.57942918, 28.41916673 ],
+      "type": "Point"
+    },
+    "id": "008e7fa7-1d86-41cd-a0d2-9c3b66c6cebf",
+    "lat": 28.41916673,
+    "long": -81.57942918,
+    "message": "People mover",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465313769,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740205400990068737",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11046539, 48.81508219 ],
+      "type": "Point"
+    },
+    "id": "04db075b-f300-462b-9edc-23f683fc0fbf",
+    "lat": 48.81508219,
+    "long": 2.11046539,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985600,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743023511480852482",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1110299, 48.8203019 ],
+      "type": "Point"
+    },
+    "id": "02988ba9-3f2d-45b2-9c5e-0a97b255c17b",
+    "lat": 48.8203019,
+    "long": 2.1110299,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987873,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11046477, 48.81498093 ],
+      "type": "Point"
+    },
+    "id": "037b29df-e537-4075-b042-6c6553a2708d",
+    "lat": 48.81498093,
+    "long": 2.11046477,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985469,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "05626d6e-f6dc-4dba-8c4f-3599c60f8d71",
+    "lat": 48.864072,
+    "long": 2.320059,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462645396,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1288972, 51.5082847 ],
+      "type": "Point"
+    },
+    "id": "027e8970-b819-4207-adca-29847fabe0a5",
+    "lat": 51.5082847,
+    "long": -0.1288972,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465473443,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1328201, 51.5121814 ],
+      "type": "Point"
+    },
+    "id": "058b6723-6927-4946-870f-2b1bd07ca032",
+    "lat": 51.5121814,
+    "long": -0.1328201,
+    "message": "Three rows from the stage at Les Miserables ",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465496915,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740973726473195520",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1324502, 51.511689 ],
+      "type": "Point"
+    },
+    "id": "09af8d2d-ed45-499b-8a9d-e5c6d75e78ee",
+    "lat": 51.511689,
+    "long": -0.1324502,
+    "message": "China Town ",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465581492,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741328522812129280",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5807638, 28.4214899 ],
+      "type": "Point"
+    },
+    "id": "099f0cfe-fe1f-4dbb-a745-a6a6ee7c157f",
+    "lat": 28.4214899,
+    "long": -81.5807638,
+    "message": "Croquet Madame, open face poached eggs on baguette and pastries at be our guest.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465303134,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740160622181093376",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "08b3a5b5-d04a-432b-b345-26620bfd94f7",
+    "lat": 48.856619,
+    "long": 2.338964,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462641796,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11153437, 48.81863561 ],
+      "type": "Point"
+    },
+    "id": "060268ea-a70f-4776-a48c-5b8cbb269487",
+    "lat": 48.81863561,
+    "long": 2.11153437,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987088,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "08fd5503-fcb7-4c6e-a488-9c326ce4735b",
+    "lat": 48.862614,
+    "long": 2.318982,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462645696,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11775868, 48.81357042 ],
+      "type": "Point"
+    },
+    "id": "063bb33d-116f-4f02-956f-21bf864d50cb",
+    "lat": 48.81357042,
+    "long": 2.11775868,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984162,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3559388, 42.2076009 ],
+      "type": "Point"
+    },
+    "id": "03b5c7f9-83f7-4f7c-9394-7fc850fa7df2",
+    "lat": 42.2076009,
+    "long": -83.3559388,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381664,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3059148, 48.8577486 ],
+      "type": "Point"
+    },
+    "id": "150b74a2-04f2-4d10-9ccc-bb87c1f8efa4",
+    "lat": 48.8577486,
+    "long": 2.3059148,
+    "message": "Dinner at a cafe. Steak tartare and penne with arrabiata sauce, plus a glass of wine of course.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465838422,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742405680980594692",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3484019, 48.8524094 ],
+      "type": "Point"
+    },
+    "id": "0f3f3a59-a8bc-4e64-a8f1-1f9c8f26c2c4",
+    "lat": 48.8524094,
+    "long": 2.3484019,
+    "message": "Made it to the Notre Dame",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465821768,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742336173792591872",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "0caf381d-b266-46ab-9e84-6dd711001dbe",
+    "lat": 48.854995,
+    "long": 2.336819,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462639696,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1110291, 48.8203016 ],
+      "type": "Point"
+    },
+    "id": "0f522185-78d3-44d2-91f7-b7d2f327d751",
+    "lat": 48.8203016,
+    "long": 2.1110291,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987336,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "0b36ad22-2bbf-453c-a30d-9264058ef250",
+    "lat": 48.861172,
+    "long": 2.335509,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462644196,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2898624, 48.8572418 ],
+      "type": "Point"
+    },
+    "id": "13d29538-2a89-4a32-8cc1-91504a7ea48f",
+    "lat": 48.8572418,
+    "long": 2.2898624,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465974531,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2935663, 48.860197 ],
+      "type": "Point"
+    },
+    "id": "0b0345d0-29bb-4916-a3ea-54058c2dc9f7",
+    "lat": 48.860197,
+    "long": 2.2935663,
+    "message": "Eiffel tower light show ",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466021192,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743172650554392576",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1658506, 51.5023706 ],
+      "type": "Point"
+    },
+    "id": "0d1bc927-4c4b-481b-ab23-0ec745616459",
+    "lat": 51.5023706,
+    "long": -0.1658506,
+    "message": "Changing of the guard ",
+    "neighborhood": "Knightsbridge",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465471165,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740864956904570886",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "1cfc5128-063a-4146-a2c0-9304bb885beb",
+    "lat": 48.858908,
+    "long": 2.293467,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462649596,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5799202, 28.4204639 ],
+      "type": "Point"
+    },
+    "id": "1691fe35-b95a-4543-af7c-7c81e7a615b6",
+    "lat": 28.4204639,
+    "long": -81.5799202,
+    "message": "Seven dwarfs ride",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465306674,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740175723722379264",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11046706, 48.81508061 ],
+      "type": "Point"
+    },
+    "id": "0ed743c6-26bc-4d61-945b-9ac420db5769",
+    "lat": 48.81508061,
+    "long": 2.11046706,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985549,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1420549, 51.5030549 ],
+      "type": "Point"
+    },
+    "id": "10ed7ade-9ae6-4cff-9625-38b32a77ef1a",
+    "lat": 51.5030549,
+    "long": -0.1420549,
+    "message": "Changing of the guard",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465470482,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740862507837857792",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11454246, 48.81833655 ],
+      "type": "Point"
+    },
+    "id": "0c981312-48d3-41aa-a9ca-66b5ca0e06fe",
+    "lat": 48.81833655,
+    "long": 2.11454246,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985206,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743021704201437186",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11157501, 48.81872066 ],
+      "type": "Point"
+    },
+    "id": "17daa4bc-4164-4a9b-9e8e-260d6bcd8a55",
+    "lat": 48.81872066,
+    "long": 2.11157501,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986849,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.12380881, 51.50123272 ],
+      "type": "Point"
+    },
+    "id": "0f8584ce-3a55-4524-b999-88b893977789",
+    "lat": 51.50123272,
+    "long": -0.12380881,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465468264,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "0d28f570-400e-48cb-830d-b3a9a2282039",
+    "lat": 48.860149,
+    "long": 2.333288,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462645096,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Chessy",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.7778277, 48.8731774 ],
+      "type": "Point"
+    },
+    "id": "1d4412a1-492a-485c-a8fb-081e8b443694",
+    "lat": 48.8731774,
+    "long": 2.7778277,
+    "message": "Early entrance at the park",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466148078,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743704815646052353",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1044435, 51.5141811 ],
+      "type": "Point"
+    },
+    "id": "17c9b1f2-3ba2-4f3a-9218-3a7ae914da60",
+    "lat": 51.5141811,
+    "long": -0.1044435,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465466110,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1353854, 51.510618 ],
+      "type": "Point"
+    },
+    "id": "10ae2cfd-f8b9-4e8e-b5f2-eeecf57d5211",
+    "lat": 51.510618,
+    "long": -0.1353854,
+    "message": "Steak & trooper ale pie. Mushroom, asparagus & goat cheese pie. Then Suzanne had a non alcoholic ginger beer.",
+    "neighborhood": "Soho",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465585830,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741343207146041344",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -110.8250239, 32.3046506 ],
+      "type": "Point"
+    },
+    "id": "11ca8a76-53b5-4852-9ace-d9887c0b7717",
+    "lat": 32.3046506,
+    "long": -110.8250239,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464328365,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3619376, 42.2050545 ],
+      "type": "Point"
+    },
+    "id": "0d6a55e9-27d4-4366-be19-d6c5b47f50e9",
+    "lat": 42.2050545,
+    "long": -83.3619376,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380775,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "191f6339-ecb0-47d6-ac47-c3826991e9b1",
+    "lat": 48.854995,
+    "long": 2.336819,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462639696,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1104306, 48.81505894 ],
+      "type": "Point"
+    },
+    "id": "0faccf7c-4857-482b-b14e-2e3a8f76064a",
+    "lat": 48.81505894,
+    "long": 2.1104306,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985509,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2891162, 48.8556047 ],
+      "type": "Point"
+    },
+    "id": "0e7b93d3-836a-4fb2-9dad-c22a295cf6a9",
+    "lat": 48.8556047,
+    "long": 2.2891162,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465974831,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1114908, 48.81889609 ],
+      "type": "Point"
+    },
+    "id": "21235609-cafc-4e26-89b1-c1cfca31ed55",
+    "lat": 48.81889609,
+    "long": 2.1114908,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986889,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5857754, 28.4126046 ],
+      "type": "Point"
+    },
+    "id": "2521b34c-7a4d-4dd5-88e9-b1455dab0794",
+    "lat": 28.4126046,
+    "long": -81.5857754,
+    "message": "Dinner at Narcoossee's in front of magic kingdom.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465171409,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/739608317316595712",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3603224, 42.2050524 ],
+      "type": "Point"
+    },
+    "id": "18e6a6a7-af6e-4d8d-b413-bd8c3e093d4c",
+    "lat": 42.2050524,
+    "long": -83.3603224,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381018,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3617592, 42.2053606 ],
+      "type": "Point"
+    },
+    "id": "1526dbeb-d4ab-4ac3-898b-274f65c4ef46",
+    "lat": 42.2053606,
+    "long": -83.3617592,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380855,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "18702ab0-f452-493e-8f02-156b87b67743",
+    "lat": 48.856875,
+    "long": 2.294818,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462648096,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3561058, 42.2077641 ],
+      "type": "Point"
+    },
+    "id": "19ec355a-b8d0-4a34-b70c-d0bb3e45a107",
+    "lat": 42.2077641,
+    "long": -83.3561058,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381482,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3613355, 42.2045664 ],
+      "type": "Point"
+    },
+    "id": "1019e747-1a14-47d1-acc5-03841dd87f48",
+    "lat": 42.2045664,
+    "long": -83.3613355,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380715,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "10569a1e-5f43-4ea0-9cd7-0377070f11ec",
+    "lat": 48.861193,
+    "long": 2.333803,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462643296,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.10969553, 51.50821949 ],
+      "type": "Point"
+    },
+    "id": "2a58b659-b4f7-4a71-86c6-96976465e367",
+    "lat": 51.50821949,
+    "long": -0.10969553,
+    "message": "",
+    "neighborhood": "Lambeth",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465465617,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1000792, 51.5135689 ],
+      "type": "Point"
+    },
+    "id": "2d5ffd38-325b-4db9-b7ce-d349a704c4b8",
+    "lat": 51.5135689,
+    "long": -0.1000792,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465466657,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.29143474, 48.85474997 ],
+      "type": "Point"
+    },
+    "id": "1c7a8836-85a3-4d9f-a08a-82b030df8814",
+    "lat": 48.85474997,
+    "long": 2.29143474,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465973715,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Roissy-en-France",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.5393025, 49.0164337 ],
+      "type": "Point"
+    },
+    "id": "15839ff7-8f93-412e-8570-a1ce6e1a9bad",
+    "lat": 49.0164337,
+    "long": 2.5393025,
+    "message": "First leg of trip back.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466401267,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/744766906515677184",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3603641, 42.2050164 ],
+      "type": "Point"
+    },
+    "id": "1b44156a-5208-47e6-876c-6ed755606024",
+    "lat": 42.2050164,
+    "long": -83.3603641,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380997,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3617013, 42.2055987 ],
+      "type": "Point"
+    },
+    "id": "210512a6-8891-4fe1-8811-f518abfc1ad8",
+    "lat": 42.2055987,
+    "long": -83.3617013,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380835,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11774527, 48.81356777 ],
+      "type": "Point"
+    },
+    "id": "13f17156-fa0d-457f-9e24-fde147e0348f",
+    "lat": 48.81356777,
+    "long": 2.11774527,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984282,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Colleville-sur-Mer",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.85284685, 49.35468748 ],
+      "type": "Point"
+    },
+    "id": "148762c3-b814-422a-a260-f7e987333dd2",
+    "lat": 49.35468748,
+    "long": -0.85284685,
+    "message": "Normandy American Cemetery",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465897871,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742655501926731777",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1250435, 48.7985952 ],
+      "type": "Point"
+    },
+    "id": "31ddbdc2-2761-48e5-a696-dcbb043706a8",
+    "lat": 48.7985952,
+    "long": 2.1250435,
+    "message": "Picking a bike",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465977678,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742990028201201664",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.28914182, 48.85523331 ],
+      "type": "Point"
+    },
+    "id": "2ebfc792-6eec-4ac3-8899-8d58662a7c58",
+    "lat": 48.85523331,
+    "long": 2.28914182,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465974025,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11153353, 48.81893185 ],
+      "type": "Point"
+    },
+    "id": "20b1ba8c-3c7d-4fa8-bef0-fb9008772987",
+    "lat": 48.81893185,
+    "long": 2.11153353,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986869,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3568573, 42.2081148 ],
+      "type": "Point"
+    },
+    "id": "1d08e7bd-b5bd-490d-a260-f012b5f4718c",
+    "lat": 42.2081148,
+    "long": -83.3568573,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381402,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3252681, 48.8690045 ],
+      "type": "Point"
+    },
+    "id": "2efcbcb2-c758-494b-8d6c-fefc0800f6d2",
+    "lat": 48.8690045,
+    "long": 2.3252681,
+    "message": "We found another Pret in Paris... we loved it so much in London. We found out from Liam that Pret A Manger is owned by McDonald's.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466014273,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743142938172022784",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2893637, 48.8559538 ],
+      "type": "Point"
+    },
+    "id": "22d2bbf0-aaff-4b0a-add6-8263813a4d58",
+    "lat": 48.8559538,
+    "long": 2.2893637,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465975052,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.13955756, 51.50107234 ],
+      "type": "Point"
+    },
+    "id": "1a578890-fb17-4d7d-8703-7779cb03aba4",
+    "lat": 51.50107234,
+    "long": -0.13955756,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465470618,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3714261, 42.1993217 ],
+      "type": "Point"
+    },
+    "id": "14a1f67e-dbe4-4a84-877f-74be57445818",
+    "lat": 42.1993217,
+    "long": -83.3714261,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380823,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1290407, 51.49958 ],
+      "type": "Point"
+    },
+    "id": "34a21efa-596b-4563-945d-40f9ca99fa0d",
+    "lat": 51.49958,
+    "long": -0.1290407,
+    "message": "",
+    "neighborhood": "Westminster",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465469451,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.12927226, 51.4982107 ],
+      "type": "Point"
+    },
+    "id": "3064c6d8-d707-43e0-876f-8b659fd9cd57",
+    "lat": 51.4982107,
+    "long": -0.12927226,
+    "message": "",
+    "neighborhood": "Westminster",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465468959,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "222eea5b-bfe0-47da-9e97-a219394e6959",
+    "lat": 48.862896,
+    "long": 2.315216,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462645996,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1277447, 48.7991349 ],
+      "type": "Point"
+    },
+    "id": "1d110468-c70f-45da-ab6e-3c45158b7b26",
+    "lat": 48.7991349,
+    "long": 2.1277447,
+    "message": "Just got off the RER",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465977185,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.10979395, 48.81578736 ],
+      "type": "Point"
+    },
+    "id": "333bc89b-b619-467a-bda7-baabde2ae972",
+    "lat": 48.81578736,
+    "long": 2.10979395,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986066,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1258682, 51.4986392 ],
+      "type": "Point"
+    },
+    "id": "2309a43b-6144-4ff3-9fff-d9c2150ed05d",
+    "lat": 51.4986392,
+    "long": -0.1258682,
+    "message": "",
+    "neighborhood": "Westminster",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465468559,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "2154fe88-004c-48b1-9615-02f0bf4e2d2c",
+    "lat": 48.857332,
+    "long": 2.338298,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462642396,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "14f16a59-04a8-448f-adc1-a8df37a26e4b",
+    "lat": 48.856563,
+    "long": 2.339093,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462641496,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.578432, 28.4184658 ],
+      "type": "Point"
+    },
+    "id": "3b9def83-d35a-43d5-bab8-e9755ec92f6a",
+    "lat": 28.4184658,
+    "long": -81.578432,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465313790,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11772222, 48.81356991 ],
+      "type": "Point"
+    },
+    "id": "3081f828-3056-4d14-ac03-bc1d8977ed9c",
+    "lat": 48.81356991,
+    "long": 2.11772222,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984342,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11165517, 48.81848263 ],
+      "type": "Point"
+    },
+    "id": "25428e14-a115-44eb-8f3d-091736c0c358",
+    "lat": 48.81848263,
+    "long": 2.11165517,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986789,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "23f90aec-4be4-40a7-8aba-0a1ab2a58f39",
+    "lat": 48.873804,
+    "long": 2.294994,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462651096,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "3473d297-0adf-4ced-b526-d67a7c68704d",
+    "lat": 48.861193,
+    "long": 2.333803,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462643296,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2876138, 48.8543758 ],
+      "type": "Point"
+    },
+    "id": "243039e4-358b-4753-b9f5-b2f012da5b3b",
+    "lat": 48.8543758,
+    "long": 2.2876138,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465974329,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "22252caf-530d-4641-a7f4-fcd777637e6f",
+    "lat": 48.854305,
+    "long": 2.30541,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462646896,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "1daaa8af-aed1-4c22-ba32-239420f5de90",
+    "lat": 48.857913,
+    "long": 2.295194,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462648396,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1101131, 51.5079343 ],
+      "type": "Point"
+    },
+    "id": "3ba9efa3-a4c0-4852-bbd4-9a8c305ca7a4",
+    "lat": 51.5079343,
+    "long": -0.1101131,
+    "message": "About to start the bike tour",
+    "neighborhood": "Lambeth",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465465022,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5811921, 28.4183456 ],
+      "type": "Point"
+    },
+    "id": "3722b004-39ad-4e1f-8a5e-3f95fcb4b0fc",
+    "lat": 28.4183456,
+    "long": -81.5811921,
+    "message": "On our way to be our guest for breakfast!",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465301453,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740153761000218624",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3569057, 42.2064485 ],
+      "type": "Point"
+    },
+    "id": "3b23f448-ae7e-41b0-bfa6-2d3903f2d5ea",
+    "lat": 42.2064485,
+    "long": -83.3569057,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381603,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.0928507, 51.5073743 ],
+      "type": "Point"
+    },
+    "id": "2e4cef94-1597-4b4e-8ddf-bfa4409133c7",
+    "lat": 51.5073743,
+    "long": -0.0928507,
+    "message": "Time for some traditional British pies from pieminister at Boroughs market. Chose a spot to eat next to The Anchor pub, which claims to be one of the oldest",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465480635,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740905125661704197",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5501298, 28.3736075 ],
+      "type": "Point"
+    },
+    "id": "35bee842-8d0c-425b-8382-7c2689155628",
+    "lat": 28.3736075,
+    "long": -81.5501298,
+    "message": "Epcot",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465220711,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/739815177172967424",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Feuillères",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.8503559, 49.9140857 ],
+      "type": "Point"
+    },
+    "id": "250bf313-94cd-4919-a883-5ce7faca7acc",
+    "lat": 49.9140857,
+    "long": 2.8503559,
+    "message": "Suzanne is still sleeping.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465729705,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741949956513206272",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3591952, 42.2064843 ],
+      "type": "Point"
+    },
+    "id": "229c4012-8d6c-4d2f-b9b1-8f112f4fca85",
+    "lat": 42.2064843,
+    "long": -83.3591952,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381160,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1346452, 51.5095512 ],
+      "type": "Point"
+    },
+    "id": "269dd927-3030-4ec6-9bae-ca38620c65ad",
+    "lat": 51.5095512,
+    "long": -0.1346452,
+    "message": "Piccadilly circus",
+    "neighborhood": "St. James's",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465580869,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741325914655457280",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -110.8250239, 32.3046506 ],
+      "type": "Point"
+    },
+    "id": "4a78bbce-e456-42ba-a7fa-2d6613d184e7",
+    "lat": 32.3046506,
+    "long": -110.8250239,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464328425,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "3acd4f02-6876-4db0-9555-b3271be8f2ff",
+    "lat": 48.857913,
+    "long": 2.295194,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462648396,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1354777, 51.5107 ],
+      "type": "Point"
+    },
+    "id": "3f2bfd51-605a-40e2-8c02-e64238f5996a",
+    "lat": 51.5107,
+    "long": -0.1354777,
+    "message": "Steak & trooper ale pie. Mushroom, asparagus & goat cheese pie. Then Suzanne had a non alcoholic ginger beer.",
+    "neighborhood": "Soho",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465585709,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://t.co/Z01jFZtMMC",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3581098, 42.2082641 ],
+      "type": "Point"
+    },
+    "id": "308cb50c-9c28-4f3d-8674-998a699e85f5",
+    "lat": 42.2082641,
+    "long": -83.3581098,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381301,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3591952, 42.2064075 ],
+      "type": "Point"
+    },
+    "id": "415261bd-76cc-4b74-a509-0d6722dcc2cb",
+    "lat": 42.2064075,
+    "long": -83.3591952,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381139,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1288966, 51.4982253 ],
+      "type": "Point"
+    },
+    "id": "2ca8ad3c-516f-4309-9ecd-d7f5ea7a38fa",
+    "lat": 51.4982253,
+    "long": -0.1288966,
+    "message": "",
+    "neighborhood": "Westminster",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465468966,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11046546, 48.8149764 ],
+      "type": "Point"
+    },
+    "id": "37965834-d4fc-4c48-9718-ddbd317b5015",
+    "lat": 48.8149764,
+    "long": 2.11046546,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985449,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3619817, 42.205319 ],
+      "type": "Point"
+    },
+    "id": "2bb15044-d147-4522-b723-70bd70b5d31b",
+    "lat": 42.205319,
+    "long": -83.3619817,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380654,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5853042, 28.4196874 ],
+      "type": "Point"
+    },
+    "id": "4e7ba0f3-ebfd-4779-9a98-11f57d140e2e",
+    "lat": 28.4196874,
+    "long": -81.5853042,
+    "message": "Splash mountain",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465318101,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740219788455235585",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "478cc091-77f6-436b-ad42-2e0929128cba",
+    "lat": 48.856435,
+    "long": 2.335253,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462639096,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1374346, 51.5032472 ],
+      "type": "Point"
+    },
+    "id": "461637a3-9c5c-4059-86ea-62fc222c5d55",
+    "lat": 51.5032472,
+    "long": -0.1374346,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465472281,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "3be61d3b-ef9a-48f8-a0ac-620cb49261dd",
+    "lat": 48.856069,
+    "long": 2.340413,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462640896,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Mitry-Mory",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.5946774, 48.9719964 ],
+      "type": "Point"
+    },
+    "id": "468497fd-2486-4c8f-9a67-8b96b1a57291",
+    "lat": 48.9719964,
+    "long": 2.5946774,
+    "message": "On the TVG to CDG",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466352351,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/744561557829365760",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1353854, 51.510618 ],
+      "type": "Point"
+    },
+    "id": "2e3cf48d-3876-4287-9cbc-6278f274d0b1",
+    "lat": 51.510618,
+    "long": -0.1353854,
+    "message": "Fuller's London Pride from the Queen's Head pub in Soho. A chalkboard says it's been open since 1736. ",
+    "neighborhood": "Soho",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465583708,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741337313331052545",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.12596749, 51.49868333 ],
+      "type": "Point"
+    },
+    "id": "3b0cc39d-d9c3-40d5-8410-c72041c11ff7",
+    "lat": 51.49868333,
+    "long": -0.12596749,
+    "message": "",
+    "neighborhood": "Westminster",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465468565,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "2fe3f800-1eeb-495f-a413-1eb45a73c42d",
+    "lat": 48.860551,
+    "long": 2.295648,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462647196,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "50685403-ca8f-4e51-916e-1d7714a0a1d0",
+    "lat": 48.856875,
+    "long": 2.294818,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462648096,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "4b33cc7b-2de0-4cb2-b1c0-32be3dc9d0de",
+    "lat": 48.862614,
+    "long": 2.318982,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462645696,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11046083, 48.81508252 ],
+      "type": "Point"
+    },
+    "id": "48def91f-cc0d-4211-8783-143b8c885d65",
+    "lat": 48.81508252,
+    "long": 2.11046083,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985629,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "3e7771a0-ba31-433f-aefc-742cc2c022e8",
+    "lat": 48.860651,
+    "long": 2.295516,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462649896,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.54965444, 28.37502967 ],
+      "type": "Point"
+    },
+    "id": "50fe1eea-c75e-4652-be93-8af744c03291",
+    "lat": 28.37502967,
+    "long": -81.54965444,
+    "message": "Day at Epcot",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465217548,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/739801770512109568",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "2e9d22f0-967d-4713-8033-c23dff8d63bd",
+    "lat": 48.85744,
+    "long": 2.293885,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462648696,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1873839, 51.5052086 ],
+      "type": "Point"
+    },
+    "id": "43fef136-3b7f-479d-8515-9bbaab7a656b",
+    "lat": 51.5052086,
+    "long": -0.1873839,
+    "message": "Kensington palace",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465563197,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741251820266348544",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "31e9e8d4-57b7-4705-a2e4-5568db1e4aff",
+    "lat": 48.860664,
+    "long": 2.335477,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462644496,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5789561, 28.4179618 ],
+      "type": "Point"
+    },
+    "id": "56415978-6ab5-4349-a149-67eb64b5266d",
+    "lat": 28.4179618,
+    "long": -81.5789561,
+    "message": "carousel of progress ",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465314864,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740205400990068737",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Neuilly-Plaisance",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.4996227, 48.8570117 ],
+      "type": "Point"
+    },
+    "id": "4c96f851-f0ce-4dc9-b306-37eeedeeb97a",
+    "lat": 48.8570117,
+    "long": 2.4996227,
+    "message": "On the RER to Disneyland Paris",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466081095,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743422494124609537",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3602807, 42.2051651 ],
+      "type": "Point"
+    },
+    "id": "4db5b6e7-3b3d-4de0-9725-681d6ccaa271",
+    "lat": 42.2051651,
+    "long": -83.3602807,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381038,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2895172, 48.856226 ],
+      "type": "Point"
+    },
+    "id": "40f80cde-837a-44da-af91-f3cdd073a5a8",
+    "lat": 48.856226,
+    "long": 2.2895172,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465975240,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "527f6098-420c-478f-b994-23ca26b2aa9f",
+    "lat": 48.858511,
+    "long": 2.332505,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462642996,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11780831, 48.81354039 ],
+      "type": "Point"
+    },
+    "id": "37337ef4-098a-4ae0-b9a0-be21c5ff487f",
+    "lat": 48.81354039,
+    "long": 2.11780831,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984071,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.10952387, 51.50825521 ],
+      "type": "Point"
+    },
+    "id": "50ca77b9-1922-459f-9a8b-33313bed1bf5",
+    "lat": 51.50825521,
+    "long": -0.10952387,
+    "message": "",
+    "neighborhood": "Lambeth",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465465095,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.0784428, 51.5078775 ],
+      "type": "Point"
+    },
+    "id": "3537ee18-51d2-4e04-bbd5-75f3f67e520e",
+    "lat": 51.5078775,
+    "long": -0.0784428,
+    "message": "Artillery gun salute for the Queen's 90th birthday at Tower of London.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465646010,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741598940764635136",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1116438, 48.81848718 ],
+      "type": "Point"
+    },
+    "id": "62fd8565-6cbc-4b3c-99c4-2bf1faffa204",
+    "lat": 48.81848718,
+    "long": 2.1116438,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986809,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3460058, 48.846795 ],
+      "type": "Point"
+    },
+    "id": "515d3e99-f270-4ad3-b6a8-f1203b0d388d",
+    "lat": 48.846795,
+    "long": 2.3460058,
+    "message": "Pantheon",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465818394,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742322059498250241",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1102056, 51.5080984 ],
+      "type": "Point"
+    },
+    "id": "4eec22e5-7b86-4d90-81e2-15afd3029065",
+    "lat": 51.5080984,
+    "long": -0.1102056,
+    "message": "",
+    "neighborhood": "Lambeth",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465465129,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3065803, 48.8922549 ],
+      "type": "Point"
+    },
+    "id": "476884a0-e22f-4be5-9ddf-e5d0b07fc0b1",
+    "lat": 48.8922549,
+    "long": 2.3065803,
+    "message": "On a train to see Normandy",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465881427,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742586273504710656",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11052102, 48.81514027 ],
+      "type": "Point"
+    },
+    "id": "53939067-a3c2-433f-9d4b-d7f78edd591a",
+    "lat": 48.81514027,
+    "long": 2.11052102,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465990132,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3621704, 42.2050316 ],
+      "type": "Point"
+    },
+    "id": "387944b9-e964-492e-8374-5f663b3aedbd",
+    "lat": 42.2050316,
+    "long": -83.3621704,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380613,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3563145, 42.2078914 ],
+      "type": "Point"
+    },
+    "id": "6665e005-d1de-4886-b6e2-077419d0899f",
+    "lat": 42.2078914,
+    "long": -83.3563145,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381422,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11157369, 48.81854853 ],
+      "type": "Point"
+    },
+    "id": "3d079b06-2ef8-4a76-a269-03c856b6b38d",
+    "lat": 48.81854853,
+    "long": 2.11157369,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987057,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11125577, 48.82017547 ],
+      "type": "Point"
+    },
+    "id": "651bd9e0-94e3-4492-a5f6-313a048941e5",
+    "lat": 48.82017547,
+    "long": 2.11125577,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987365,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3581098, 42.2082641 ],
+      "type": "Point"
+    },
+    "id": "5360ce37-9001-4579-890c-1d5d2c40d373",
+    "lat": 42.2082641,
+    "long": -83.3581098,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381321,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11752631, 48.8140871 ],
+      "type": "Point"
+    },
+    "id": "55b11740-b287-45c9-8e82-4fbfecd4ffd5",
+    "lat": 48.8140871,
+    "long": 2.11752631,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984819,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2984575, 48.8729241 ],
+      "type": "Point"
+    },
+    "id": "49c31081-9d2b-4ebe-8c74-2f6e5457946e",
+    "lat": 48.8729241,
+    "long": 2.2984575,
+    "message": "Ze Arc ",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465746910,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742022130955472897",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "54c93f58-89c6-4724-8b18-89ad48f4afff",
+    "lat": 48.856423,
+    "long": 2.296406,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462647796,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3618431, 42.2052735 ],
+      "type": "Point"
+    },
+    "id": "389f784f-0316-4363-ac3e-2cd2aa4f803a",
+    "lat": 42.2052735,
+    "long": -83.3618431,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380897,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3601137, 42.2052323 ],
+      "type": "Point"
+    },
+    "id": "6ef16dd4-89cf-4eac-bddf-8ae93d373673",
+    "lat": 42.2052323,
+    "long": -83.3601137,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381058,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.3000956, 28.4259051 ],
+      "type": "Point"
+    },
+    "id": "3f2c8267-7df0-4b62-ad64-0f492d5ad068",
+    "lat": 28.4259051,
+    "long": -81.3000956,
+    "message": "They blocked the middle seat so we could have a row to ourselves.",
+    "neighborhood": "Southeast Orlando",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465343127,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740328279735951365",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Hounslow",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.35460466, 51.47456869 ],
+      "type": "Point"
+    },
+    "id": "6d995331-d00f-4863-97a8-a9866e619a17",
+    "lat": 51.47456869,
+    "long": -0.35460466,
+    "message": "The tube from Heathrow",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465397385,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740556181878366208",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2891162, 48.8556047 ],
+      "type": "Point"
+    },
+    "id": "64d7cb7b-6c86-4d8a-9e17-a02aff4ca43c",
+    "lat": 48.8556047,
+    "long": 2.2891162,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465974875,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1331157, 51.5163697 ],
+      "type": "Point"
+    },
+    "id": "56eefdcb-4b59-4b1e-9a85-c7079e1f5440",
+    "lat": 51.5163697,
+    "long": -0.1331157,
+    "message": "Breakfast at Pret. Got a salmon sandwich, yogurt with some sort of fruit, latte, egg sandwich and a mozzarella tomato croissant.",
+    "neighborhood": "Fitzrovia",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465459600,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740816620839407617",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "4a789b3c-32d9-4538-a647-43230a19ccc4",
+    "lat": 48.856732,
+    "long": 2.339028,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462642096,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11774497, 48.81356668 ],
+      "type": "Point"
+    },
+    "id": "559cd470-0ee5-44f4-889e-0a9d40189b9e",
+    "lat": 48.81356668,
+    "long": 2.11774497,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984252,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3097422, 48.8562563 ],
+      "type": "Point"
+    },
+    "id": "3e0d1bbc-c786-44ba-a3a4-82845b64ef6b",
+    "lat": 48.8562563,
+    "long": 2.3097422,
+    "message": "Hotel l'empureur",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465736459,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741978222099718144",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "77b58aa4-c2f7-4b2c-923f-180a81771275",
+    "lat": 48.85292,
+    "long": 2.337001,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462639996,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1297418, 51.502248 ],
+      "type": "Point"
+    },
+    "id": "425d764e-93f3-45cd-8ece-2cf60d0b6938",
+    "lat": 51.502248,
+    "long": -0.1297418,
+    "message": "Churchill war rooms",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465578426,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741315652762275840",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11149476, 48.81977992 ],
+      "type": "Point"
+    },
+    "id": "6df97840-e5e4-4ca4-b222-ae7a42a46968",
+    "lat": 48.81977992,
+    "long": 2.11149476,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987248,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11162625, 48.81859277 ],
+      "type": "Point"
+    },
+    "id": "67365599-026a-42e1-a86b-058cc21f2908",
+    "lat": 48.81859277,
+    "long": 2.11162625,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987036,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11153353, 48.81893185 ],
+      "type": "Point"
+    },
+    "id": "58c65025-6ac6-4c4b-ba40-fab9f37e0419",
+    "lat": 48.81893185,
+    "long": 2.11153353,
+    "message": "Little Hamlet at Versailles for Antoinette ",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986869,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743028614178832384",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1275665, 51.5085736 ],
+      "type": "Point"
+    },
+    "id": "697379a2-256a-4e39-8c55-f10536bb4615",
+    "lat": 51.5085736,
+    "long": -0.1275665,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465473734,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11168001, 48.81849321 ],
+      "type": "Point"
+    },
+    "id": "55b6b47a-6b48-4c5d-99cc-ff2abf3d3d7b",
+    "lat": 48.81849321,
+    "long": 2.11168001,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986749,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Le Mesnil-Amelot",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.57370262, 49.0035356 ],
+      "type": "Point"
+    },
+    "id": "40baccf5-bb9d-48fb-b643-873b87349618",
+    "lat": 49.0035356,
+    "long": 2.57370262,
+    "message": "Dinner at CDG",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466354870,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/744572010303414272",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3595292, 42.2062733 ],
+      "type": "Point"
+    },
+    "id": "845edf20-8776-40c8-8fd8-5b3e5ae075b8",
+    "lat": 42.2062733,
+    "long": -83.3595292,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381682,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3618537, 42.2052063 ],
+      "type": "Point"
+    },
+    "id": "471da7c9-f00a-4b3a-86a2-aaa7ec42e2ae",
+    "lat": 42.2052063,
+    "long": -83.3618537,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380695,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Phoenix",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -111.9926776, 33.3474369 ],
+      "type": "Point"
+    },
+    "id": "6f830b41-7593-476d-a552-38b640fe47c3",
+    "lat": 33.3474369,
+    "long": -111.9926776,
+    "message": "",
+    "neighborhood": "Ahwatukee",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465137075,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Coupvray",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.7892238, 48.8655052 ],
+      "type": "Point"
+    },
+    "id": "6e3a7879-f0b4-4c8f-bb5d-20a095079c59",
+    "lat": 48.8655052,
+    "long": 2.7892238,
+    "message": "Buffet at cape cod restaurant",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466095213,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743482946716217344",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.3003536, 28.425831 ],
+      "type": "Point"
+    },
+    "id": "5a5bce86-58da-4902-8541-659510e24d74",
+    "lat": 28.425831,
+    "long": -81.3003536,
+    "message": "Two hours until take off",
+    "neighborhood": "Southeast Orlando",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465337419,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740304709685288960",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1113058, 48.81887739 ],
+      "type": "Point"
+    },
+    "id": "69ccfbdf-5be7-4fd3-89f1-859d1f412f20",
+    "lat": 48.81887739,
+    "long": 2.1113058,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987131,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3618819, 42.2052833 ],
+      "type": "Point"
+    },
+    "id": "572ebf1a-dc13-4153-80de-1c308c94ed43",
+    "lat": 42.2052833,
+    "long": -83.3618819,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380735,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2861622, 48.8537753 ],
+      "type": "Point"
+    },
+    "id": "43465ce2-949b-4fee-b0be-9e2418aa63ac",
+    "lat": 48.8537753,
+    "long": 2.2861622,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465974141,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Chessy",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.7776354, 48.8730246 ],
+      "type": "Point"
+    },
+    "id": "8aaa2309-1724-416b-941e-0fb1cfd069ab",
+    "lat": 48.8730246,
+    "long": 2.7776354,
+    "message": "The castle",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466101969,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743511392464953344",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.12951743, 51.50219767 ],
+      "type": "Point"
+    },
+    "id": "495d3bcf-92eb-4e18-9a5e-c7663ad1cc52",
+    "lat": 51.50219767,
+    "long": -0.12951743,
+    "message": "Churchill war rooms",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465578309,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11776509, 48.81356518 ],
+      "type": "Point"
+    },
+    "id": "73f84d21-565b-425a-ac2d-fbcda4ad6289",
+    "lat": 48.81356518,
+    "long": 2.11776509,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984192,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "6eeccba1-3a4e-4d15-b5aa-9aa2885aa26d",
+    "lat": 48.856435,
+    "long": 2.335253,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462639096,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2893574, 48.8558752 ],
+      "type": "Point"
+    },
+    "id": "5c7e53bc-a5e2-43e5-8f39-662d9a55778c",
+    "lat": 48.8558752,
+    "long": 2.2893574,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465974407,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.12911854, 51.51708027 ],
+      "type": "Point"
+    },
+    "id": "7109202c-1e26-44c5-aa2e-456fa522e9ae",
+    "lat": 51.51708027,
+    "long": -0.12911854,
+    "message": "Nespresso maker in the room....pretty coooool",
+    "neighborhood": "Fitzrovia",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465456216,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740802012334411776",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3214803, 48.8516948 ],
+      "type": "Point"
+    },
+    "id": "59a4fe7c-85ba-4f22-aa40-4c6da6c481a7",
+    "lat": 48.8516948,
+    "long": 2.3214803,
+    "message": "Found a good flat white, coutume",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465810800,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742289994895622145",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3620557, 42.204987 ],
+      "type": "Point"
+    },
+    "id": "4390f186-caf7-428b-8c63-e1603bbd33ec",
+    "lat": 42.204987,
+    "long": -83.3620557,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380675,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "8cd556a2-8146-4bee-a9d1-829bb45e104f",
+    "lat": 48.861172,
+    "long": 2.335509,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462644196,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "4d07bef6-cb1b-4013-bc40-a0863c73261a",
+    "lat": 48.862762,
+    "long": 2.301686,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462650196,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1123832, 51.510974 ],
+      "type": "Point"
+    },
+    "id": "77672e11-729c-4a1f-b505-866452ac2f0d",
+    "lat": 51.510974,
+    "long": -0.1123832,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465467757,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1400441, 51.5140886 ],
+      "type": "Point"
+    },
+    "id": "708eefdd-2e09-4b11-ac5e-c13c308ef97d",
+    "lat": 51.5140886,
+    "long": -0.1400441,
+    "message": "Picadilly",
+    "neighborhood": "Soho",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465412282,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740618658032975872",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1323538, 48.8070653 ],
+      "type": "Point"
+    },
+    "id": "63b68e70-a0cc-4aaf-af59-dbccc562857d",
+    "lat": 48.8070653,
+    "long": 2.1323538,
+    "message": "Market of Versailles",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465983328,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743013977408446464",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "742158f7-5d35-4e39-89b6-45dba3d3c709",
+    "lat": 48.858908,
+    "long": 2.293467,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462649596,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.10996668, 48.81553031 ],
+      "type": "Point"
+    },
+    "id": "5fc041b6-f527-4a7b-97e2-bd1e4bc282d5",
+    "lat": 48.81553031,
+    "long": 2.10996668,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985915,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11040289, 48.81637614 ],
+      "type": "Point"
+    },
+    "id": "54e02554-b407-46a3-a9a9-20c2e4a79a5f",
+    "lat": 48.81637614,
+    "long": 2.11040289,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986365,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "8d77a79c-e298-479b-bca9-e8ea109e7f7a",
+    "lat": 48.853676,
+    "long": 2.338385,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462640596,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "5f4a0d11-99d3-4be3-b794-93df47c798f1",
+    "lat": 48.868394,
+    "long": 2.301139,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462650496,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "79564cd0-6cef-4d59-bc3a-777789a88237",
+    "lat": 48.853698,
+    "long": 2.314733,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462646596,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "7999b59d-8abf-4e82-9cf0-09bc951407a8",
+    "lat": 48.85628,
+    "long": 2.336562,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462639396,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11166365, 48.81849171 ],
+      "type": "Point"
+    },
+    "id": "64076c24-738d-4747-8e67-99185f778187",
+    "lat": 48.81849171,
+    "long": 2.11166365,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986769,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.13861085, 51.50267838 ],
+      "type": "Point"
+    },
+    "id": "755ae134-94fa-42aa-a1e8-8114feed0389",
+    "lat": 51.50267838,
+    "long": -0.13861085,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465472033,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11043447, 48.81507184 ],
+      "type": "Point"
+    },
+    "id": "67c2ccb3-af10-417c-aa10-f75f9a80843f",
+    "lat": 48.81507184,
+    "long": 2.11043447,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985529,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1566347, 51.5141228 ],
+      "type": "Point"
+    },
+    "id": "58bf71cf-4778-4192-be73-3591f58a0bad",
+    "lat": 51.5141228,
+    "long": -0.1566347,
+    "message": "Hyde park picnic. Grabbed a picnic lunch from PAUL. I got a Montagnard sandwich and Suzanne got a tomate and mozzarella sandwich.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465559179,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741234235155980290",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "8d9bd0f4-3a2c-481b-a820-2362e1ce0ec2",
+    "lat": 48.857997,
+    "long": 2.315227,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462646296,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3337252, 48.8671817 ],
+      "type": "Point"
+    },
+    "id": "607bf738-78a1-4657-ad97-d6cf886097bd",
+    "lat": 48.8671817,
+    "long": 2.3337252,
+    "message": "Ali Japanese restaurant. Suzanne got soba noodles, no clue what i got, some Japanese pancake thing.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465932175,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742799296815239168",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2876138, 48.8543758 ],
+      "type": "Point"
+    },
+    "id": "7ad7c04f-9174-48e5-bf60-0c9b5219a7d8",
+    "lat": 48.8543758,
+    "long": 2.2876138,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465974489,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "888d35a7-af7c-430b-8f68-cd8afed84bf0",
+    "lat": 48.862896,
+    "long": 2.315216,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462645996,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Cricqueville-en-Bessin",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.99473154, 49.38971628 ],
+      "type": "Point"
+    },
+    "id": "64ce30d0-edea-4491-acd6-6781251a6517",
+    "lat": 49.38971628,
+    "long": -0.99473154,
+    "message": "Pointe du hoc",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465901939,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742672268367564802",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "81fb7830-6283-4092-99a0-953305138538",
+    "lat": 48.852511,
+    "long": 2.338771,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462640296,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -110.8250239, 32.3046506 ],
+      "type": "Point"
+    },
+    "id": "6cbe6dd4-e387-44f0-96f5-cd7af4d993a8",
+    "lat": 32.3046506,
+    "long": -110.8250239,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464328405,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11159145, 48.81987023 ],
+      "type": "Point"
+    },
+    "id": "5c64bbae-d3d4-4b5e-a014-22d744f2b46f",
+    "lat": 48.81987023,
+    "long": 2.11159145,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987228,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11132842, 48.82016686 ],
+      "type": "Point"
+    },
+    "id": "93a278ac-30c2-495d-b140-6fdb6611acc1",
+    "lat": 48.82016686,
+    "long": 2.11132842,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987296,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "65f31366-eccc-4e32-bcaf-1916a502d8ab",
+    "lat": 48.852511,
+    "long": 2.338771,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462640296,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "7b9cf698-ace7-4208-aa24-e3b06609d5d7",
+    "lat": 48.858153,
+    "long": 2.294379,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462648996,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -110.8250239, 32.3046506 ],
+      "type": "Point"
+    },
+    "id": "99a24cc0-3074-49a2-9a36-f8b46d621948",
+    "lat": 32.3046506,
+    "long": -110.8250239,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464328445,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1420549, 51.5030549 ],
+      "type": "Point"
+    },
+    "id": "72c3b4e8-735d-4b32-be6e-19e4d331df34",
+    "lat": 51.5030549,
+    "long": -0.1420549,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465470497,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "9acba369-6b33-4985-a0ea-66c06a0d8e3e",
+    "lat": 48.856888,
+    "long": 2.33919,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462641196,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1084185, 51.4971786 ],
+      "type": "Point"
+    },
+    "id": "6d67b2dd-92bf-48fe-815e-a31a397aeb32",
+    "lat": 51.4971786,
+    "long": -0.1084185,
+    "message": "Imperial war museum. That was amazing.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465663931,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741674245902602240",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1101128, 51.5078521 ],
+      "type": "Point"
+    },
+    "id": "5fa864bf-287c-4f4e-8fe0-12202dd803d9",
+    "lat": 51.5078521,
+    "long": -0.1101128,
+    "message": "Meeting spot for our bike tour. I'll turn on live tracking during our tour.",
+    "neighborhood": "Lambeth",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465462379,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740828625449148416",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Carquebut",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -1.30039866, 49.38569544 ],
+      "type": "Point"
+    },
+    "id": "9daf0418-44fa-4c60-876b-c0655c55dca3",
+    "lat": 49.38569544,
+    "long": -1.30039866,
+    "message": "Saint-mere-eglise. Band of brothers was shot here.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465910663,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742708942195687426",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "6b9c7079-57ae-4ab4-b7bc-704fe627728d",
+    "lat": 48.856619,
+    "long": 2.338964,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462641796,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11208036, 48.81824229 ],
+      "type": "Point"
+    },
+    "id": "7fcc51a2-b6d9-4aed-9ed8-750f977d1166",
+    "lat": 48.81824229,
+    "long": 2.11208036,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986572,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11163584, 48.81860515 ],
+      "type": "Point"
+    },
+    "id": "a8eb6e53-a0b6-4799-b1df-4a765403545e",
+    "lat": 48.81860515,
+    "long": 2.11163584,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986728,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Saint-Denis",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3537386, 48.9109713 ],
+      "type": "Point"
+    },
+    "id": "73afa59f-5f7c-44e0-8d83-bc2e8859bf9f",
+    "lat": 48.9109713,
+    "long": 2.3537386,
+    "message": "Outskirts of Paris",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465731667,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741958141609287681",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1101134, 51.5080164 ],
+      "type": "Point"
+    },
+    "id": "9bad1a6f-547f-42ca-b9f2-b3f94ba1d572",
+    "lat": 51.5080164,
+    "long": -0.1101134,
+    "message": "",
+    "neighborhood": "Lambeth",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465465115,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Coupvray",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.788522, 48.8660336 ],
+      "type": "Point"
+    },
+    "id": "6f80a619-974b-46ab-af7f-d592274d434a",
+    "lat": 48.8660336,
+    "long": 2.788522,
+    "message": "Ice!",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466087524,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743450925843415040",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11775498, 48.81356493 ],
+      "type": "Point"
+    },
+    "id": "69e00a44-7b7c-433f-a17c-da090a0d729d",
+    "lat": 48.81356493,
+    "long": 2.11775498,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984222,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.0968011, 51.5082745 ],
+      "type": "Point"
+    },
+    "id": "9db9cb53-bb72-4013-ac3c-bc71fe373492",
+    "lat": 51.5082745,
+    "long": -0.0968011,
+    "message": "The globe",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465477970,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740894188103831553",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Swanscombe",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 0.3049735, 51.4425396 ],
+      "type": "Point"
+    },
+    "id": "6ca3e0ac-ac1d-4619-8ca8-c8310d6df902",
+    "lat": 51.4425396,
+    "long": 0.3049735,
+    "message": "On the eurostar to Paris. This train is surpassingly smooth.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465724518,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741926933282361344",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11139249, 48.81994586 ],
+      "type": "Point"
+    },
+    "id": "83427d7d-24e5-4369-9123-627e0f69aa8a",
+    "lat": 48.81994586,
+    "long": 2.11139249,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987268,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "c1aeb428-e982-4903-877d-349bf6dd789c",
+    "lat": 48.871887,
+    "long": 2.300871,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462650796,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3601554, 42.2051963 ],
+      "type": "Point"
+    },
+    "id": "7fc60d91-77ad-4333-b662-a7f6f498b821",
+    "lat": 42.2051963,
+    "long": -83.3601554,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381078,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2886244, 48.856241 ],
+      "type": "Point"
+    },
+    "id": "a415ac4a-7efb-48f7-9de3-40543b32d232",
+    "lat": 48.856241,
+    "long": 2.2886244,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465974377,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.13902672, 51.50210295 ],
+      "type": "Point"
+    },
+    "id": "713d6124-f960-41e2-8a27-6353981ec616",
+    "lat": 51.50210295,
+    "long": -0.13902672,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465471286,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3569408, 42.2081196 ],
+      "type": "Point"
+    },
+    "id": "7352b023-a222-4561-aba4-7a9424b0cde3",
+    "lat": 42.2081196,
+    "long": -83.3569408,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381382,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.3000956, 28.4259051 ],
+      "type": "Point"
+    },
+    "id": "9ef1265b-736c-43cc-9f90-a88519ccbe6f",
+    "lat": 28.4259051,
+    "long": -81.3000956,
+    "message": "Quick outside shot of the plane",
+    "neighborhood": "Southeast Orlando",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465343055,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740328199373107200",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5467443, 28.3697273 ],
+      "type": "Point"
+    },
+    "id": "71065ef7-8234-4437-a59d-17dafd149370",
+    "lat": 28.3697273,
+    "long": -81.5467443,
+    "message": "Here comes the tropical storm!",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465234502,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/739873077522141186",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "a6087245-f688-438a-a774-4e7310197958",
+    "lat": 48.858992,
+    "long": 2.293498,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462647496,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "c1ff1b51-a574-418a-8f33-f8f16e06fa9f",
+    "lat": 48.860798,
+    "long": 2.334372,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462644796,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "8486300d-8f66-41e6-9a93-e4a33c71c896",
+    "lat": 48.857868,
+    "long": 2.336195,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462642696,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.13392859, 51.50484344 ],
+      "type": "Point"
+    },
+    "id": "abac0a1f-ecfe-478e-9510-096539ad012b",
+    "lat": 51.50484344,
+    "long": -0.13392859,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465472629,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1112669, 48.8074525 ],
+      "type": "Point"
+    },
+    "id": "780da26d-02de-4343-82a9-fb70643fce56",
+    "lat": 48.8074525,
+    "long": 2.1112669,
+    "message": "Versailles chateau and gardens",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466005407,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743106547971063809",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1177156, 48.81356993 ],
+      "type": "Point"
+    },
+    "id": "76a39897-39a8-4726-bd21-ff0db9a3420d",
+    "lat": 48.81356993,
+    "long": 2.1177156,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984402,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "a13642fa-bed9-4016-b5b1-6bd0c8323557",
+    "lat": 48.871887,
+    "long": 2.300871,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462650796,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "7322e30e-c78b-4581-989c-ad9580db6743",
+    "lat": 48.860664,
+    "long": 2.335477,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462644496,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "a62c4efd-f765-402a-985e-9ead2cae4192",
+    "lat": 48.857997,
+    "long": 2.315227,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462646296,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11204307, 48.81858616 ],
+      "type": "Point"
+    },
+    "id": "c3eeb968-1dc4-4475-9b79-c384bce23aeb",
+    "lat": 48.81858616,
+    "long": 2.11204307,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986592,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3569062, 42.2064492 ],
+      "type": "Point"
+    },
+    "id": "859457ef-e834-416b-bc22-febd2fb9b32b",
+    "lat": 42.2064492,
+    "long": -83.3569062,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381583,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11068987, 48.82009776 ],
+      "type": "Point"
+    },
+    "id": "af34dc86-2b30-4234-8649-480b37d13b63",
+    "lat": 48.82009776,
+    "long": 2.11068987,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987475,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1290407, 51.49958 ],
+      "type": "Point"
+    },
+    "id": "7ad0c56b-6e72-4b68-ade1-3909bcd6f5ed",
+    "lat": 51.49958,
+    "long": -0.1290407,
+    "message": "",
+    "neighborhood": "Westminster",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465469431,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.0983786, 51.5130365 ],
+      "type": "Point"
+    },
+    "id": "854eaaa4-72f8-4cbe-bad7-4567d88e430d",
+    "lat": 51.5130365,
+    "long": -0.0983786,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465466930,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1265068, 48.8047368 ],
+      "type": "Point"
+    },
+    "id": "a3e4dc1a-a9f1-41c6-9179-8e3bf299a19b",
+    "lat": 48.8047368,
+    "long": 2.1265068,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465978582,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742993947568529408",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.07565659, 51.50859223 ],
+      "type": "Point"
+    },
+    "id": "758fbb64-eaff-45e1-a01e-7a7f486b8ba8",
+    "lat": 51.50859223,
+    "long": -0.07565659,
+    "message": "crown jewels",
+    "neighborhood": "St Katharine's & Wapping",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465647895,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741606974094114818",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3605311, 42.204719 ],
+      "type": "Point"
+    },
+    "id": "b2452d8b-85ab-4b52-bfae-dc4fb17fd586",
+    "lat": 42.204719,
+    "long": -83.3605311,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380977,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "cbc162f4-519a-4e52-bba7-5b216f486c6d",
+    "lat": 48.860149,
+    "long": 2.333288,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462645096,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11054721, 48.81656725 ],
+      "type": "Point"
+    },
+    "id": "89954f9b-d1da-4e4a-82e6-2ac4382614d5",
+    "lat": 48.81656725,
+    "long": 2.11054721,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986389,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.10982825, 48.8156506 ],
+      "type": "Point"
+    },
+    "id": "c3a445f1-8db8-4a17-9e92-1e957f70d841",
+    "lat": 48.8156506,
+    "long": 2.10982825,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986158,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5771291, 28.4190348 ],
+      "type": "Point"
+    },
+    "id": "7d265fcf-983e-4087-9cf1-43799a686443",
+    "lat": 28.4190348,
+    "long": -81.5771291,
+    "message": "Spacetastic",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465312706,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740201033851392000",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "8562a923-b0c4-48d4-abab-aed1d396b08f",
+    "lat": 48.856423,
+    "long": 2.296406,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462647796,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "a6ddb2e9-1c9c-4f5e-bf1f-51536e9795b2",
+    "lat": 48.858511,
+    "long": 2.332505,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462642996,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2891389, 48.8551785 ],
+      "type": "Point"
+    },
+    "id": "79beb0dd-e1c2-43af-835c-5cd78e2ccf8f",
+    "lat": 48.8551785,
+    "long": 2.2891389,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465974078,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "ba1edb5b-94e8-4613-8ee0-fb1a7fe21af9",
+    "lat": 48.864072,
+    "long": 2.320059,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462645396,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "cc883263-c721-46d6-8198-47c3bf83f08b",
+    "lat": 48.868394,
+    "long": 2.301139,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462650496,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3145996, 48.853406 ],
+      "type": "Point"
+    },
+    "id": "8a0b5ce6-7212-48e4-93c7-39f813d77609",
+    "lat": 48.853406,
+    "long": 2.3145996,
+    "message": "Near our hotel",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465809564,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742285043595280388",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Chessy",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.776687, 48.8675311 ],
+      "type": "Point"
+    },
+    "id": "c60063e5-03b4-4e07-bf72-ed99dea750d4",
+    "lat": 48.8675311,
+    "long": 2.776687,
+    "message": "The towerrrrrr of terrroorrrr",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466090490,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743463161748037632",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11123945, 48.82016131 ],
+      "type": "Point"
+    },
+    "id": "84a89366-f715-40db-9e85-ec9847e659e3",
+    "lat": 48.82016131,
+    "long": 2.11123945,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987385,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1096968, 48.8152723 ],
+      "type": "Point"
+    },
+    "id": "877ef991-5892-49b5-8584-532e6cce0191",
+    "lat": 48.8152723,
+    "long": 2.1096968,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985792,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.09825073, 51.51314652 ],
+      "type": "Point"
+    },
+    "id": "aae26e3a-787d-42a0-8bd7-93ad21fb8b34",
+    "lat": 51.51314652,
+    "long": -0.09825073,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465466936,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.08725492, 48.81366807 ],
+      "type": "Point"
+    },
+    "id": "89506b68-0d42-45a8-8cb9-2c98844f57ef",
+    "lat": 48.81366807,
+    "long": 2.08725492,
+    "message": "Picnic in front of grand canal in the back of the main chateau",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465995359,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743060416641654784",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3619492, 42.2052483 ],
+      "type": "Point"
+    },
+    "id": "bcdd2530-0b8f-46d6-9823-b1fd117334ee",
+    "lat": 42.2052483,
+    "long": -83.3619492,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380755,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1101128, 51.5078521 ],
+      "type": "Point"
+    },
+    "id": "d03e9435-342a-4bfe-9dcd-79e1fc774acc",
+    "lat": 51.5078521,
+    "long": -0.1101128,
+    "message": "",
+    "neighborhood": "Lambeth",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465465035,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3563563, 42.2079322 ],
+      "type": "Point"
+    },
+    "id": "93bfc041-a0fa-4e5a-83c9-7f8e4b67c8c5",
+    "lat": 42.2079322,
+    "long": -83.3563563,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381463,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3371185, 48.8476042 ],
+      "type": "Point"
+    },
+    "id": "c7a3ba96-987a-484d-aa3e-ed5d9101c6bb",
+    "lat": 48.8476042,
+    "long": 2.3371185,
+    "message": "Picnic at Luxembourg garden",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465815513,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742309659810238467",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "959b3526-2652-4c4d-bc86-83ed6e6181f9",
+    "lat": 48.856888,
+    "long": 2.33919,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462641196,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11783912, 48.81353729 ],
+      "type": "Point"
+    },
+    "id": "8daf8c59-4b5d-4466-a430-1571a6628e26",
+    "lat": 48.81353729,
+    "long": 2.11783912,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984546,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11030606, 48.82055738 ],
+      "type": "Point"
+    },
+    "id": "b0cc616e-c211-4163-991d-6f8e950648b0",
+    "lat": 48.82055738,
+    "long": 2.11030606,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987807,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1121226, 48.81512147 ],
+      "type": "Point"
+    },
+    "id": "9013bebe-3ff0-4b9c-859f-1d96d5a5e400",
+    "lat": 48.81512147,
+    "long": 2.1121226,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985361,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.3095109, 28.4300844 ],
+      "type": "Point"
+    },
+    "id": "c0c8aea1-94d6-4b82-849f-95236a0d649b",
+    "lat": 28.4300844,
+    "long": -81.3095109,
+    "message": "Just landed. We're going to experience Disney world in a tropical storm. Should be interesting!",
+    "neighborhood": "Southeast Orlando",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465163077,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/739573036471357446?s=09",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1233957, 51.5005204 ],
+      "type": "Point"
+    },
+    "id": "d69fd260-ae0a-46c8-9505-f4725350c5ad",
+    "lat": 51.5005204,
+    "long": -0.1233957,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465468257,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2893637, 48.8559538 ],
+      "type": "Point"
+    },
+    "id": "99939839-e9fc-4c44-aa59-53ca1163b4c7",
+    "lat": 48.8559538,
+    "long": 2.2893637,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465974176,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3580263, 42.2082593 ],
+      "type": "Point"
+    },
+    "id": "cac09a37-2a52-419a-883f-77cd1047ce29",
+    "lat": 42.2082593,
+    "long": -83.3580263,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381362,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "9c913f37-85f1-4988-b2ae-494fe0b3bf78",
+    "lat": 48.858195,
+    "long": 2.293124,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462649296,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11163154, 48.81849621 ],
+      "type": "Point"
+    },
+    "id": "8f092b57-8a63-454c-a4d9-ebce99eff710",
+    "lat": 48.81849621,
+    "long": 2.11163154,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986829,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3559388, 42.2076009 ],
+      "type": "Point"
+    },
+    "id": "b4d9d73a-56f0-4d9f-81c4-8bd016146790",
+    "lat": 42.2076009,
+    "long": -83.3559388,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381644,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3580263, 42.2082593 ],
+      "type": "Point"
+    },
+    "id": "921ebb85-ec8b-4cc6-bfc3-369eab3762c0",
+    "lat": 42.2082593,
+    "long": -83.3580263,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381341,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.549487, 28.375244 ],
+      "type": "Point"
+    },
+    "id": "c76c79d4-160e-41b1-ae35-b29e7c6b0db0",
+    "lat": 28.375244,
+    "long": -81.549487,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465217562,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5465729, 28.3699885 ],
+      "type": "Point"
+    },
+    "id": "d7b3d1f4-441a-4ded-a0a5-9628da6af2ed",
+    "lat": 28.3699885,
+    "long": -81.5465729,
+    "message": "The storm is really hitting now.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465242341,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/739905813641318401",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5528295, 28.3686553 ],
+      "type": "Point"
+    },
+    "id": "9b2205ac-ed79-44f4-96ed-36cf42ae968b",
+    "lat": 28.3686553,
+    "long": -81.5528295,
+    "message": "Preparing ourselves for some French food at Les Halles boulangerie.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465227454,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/739843425890119680",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11046329, 48.81508191 ],
+      "type": "Point"
+    },
+    "id": "cf7e55e2-51a1-47be-8ab3-e2b33c8cbfa8",
+    "lat": 48.81508191,
+    "long": 2.11046329,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985589,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.07867129, 51.50848697 ],
+      "type": "Point"
+    },
+    "id": "a0d30c39-4ef9-4c2f-a32b-4ae75e2974c0",
+    "lat": 51.50848697,
+    "long": -0.07867129,
+    "message": "Just got to tower of London",
+    "neighborhood": "St Katharine's & Wapping",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465644926,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741594562406141952",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "9e4791fc-ee5a-44e2-aded-117b92da766b",
+    "lat": 48.860651,
+    "long": 2.295516,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462649896,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.31034076, 48.86438052 ],
+      "type": "Point"
+    },
+    "id": "b7cef699-5f05-4cff-8b1d-2820091029f3",
+    "lat": 48.86438052,
+    "long": 2.31034076,
+    "message": "Found the Seine River! Forgot to look left otherwise I would have posted a picture with the Eiffel tower.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465741288,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741998452217782272",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "9a5f7751-cd0c-4102-b314-9c5b783b3f2a",
+    "lat": 48.873804,
+    "long": 2.294994,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462651096,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "c988c5ac-d757-440d-9515-921c57dfb9d6",
+    "lat": 48.861179,
+    "long": 2.33597,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462643896,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "dcea7444-b504-4abb-9bf1-8a315b403710",
+    "lat": 48.860515,
+    "long": 2.33582,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462643596,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Chessy",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.778106, 48.8683919 ],
+      "type": "Point"
+    },
+    "id": "a54631e8-d20e-48a5-abf9-d43772399ad2",
+    "lat": 48.8683919,
+    "long": 2.778106,
+    "message": "Last day at the park, then a high speed train to the airport hotel.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466325122,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/744447253000003585",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1095794, 48.815264 ],
+      "type": "Point"
+    },
+    "id": "d43d9ba2-5ae4-49b2-bf6a-11c0ed7fb7b7",
+    "lat": 48.815264,
+    "long": 2.1095794,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985829,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2891162, 48.8556047 ],
+      "type": "Point"
+    },
+    "id": "a184f372-f514-4b26-92b5-f733279e87dd",
+    "lat": 48.8556047,
+    "long": 2.2891162,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465974731,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "b04f2bd7-bb24-44a0-840b-9c004f989287",
+    "lat": 48.856732,
+    "long": 2.339028,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462642096,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3605311, 42.204719 ],
+      "type": "Point"
+    },
+    "id": "bce01ce4-c4f0-458f-a240-a3ecd6b92268",
+    "lat": 42.204719,
+    "long": -83.3605311,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380957,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "9c20c5ff-19c9-46a1-a7bf-665f15187e9f",
+    "lat": 48.85628,
+    "long": 2.336562,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462639396,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Coupvray",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.788522, 48.8660336 ],
+      "type": "Point"
+    },
+    "id": "c99d2b66-1e28-48d2-b1e8-9026bfbfba77",
+    "lat": 48.8660336,
+    "long": 2.788522,
+    "message": "Our room at the Newport Bay Club",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466087410,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743450314905288704",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5844476, 28.4199061 ],
+      "type": "Point"
+    },
+    "id": "eb54d17a-3933-413e-bb55-09cf4a5644ae",
+    "lat": 28.4199061,
+    "long": -81.5844476,
+    "message": "In line for thunder mountain railroad",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465310032,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740189846942195714",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11044031, 48.81503364 ],
+      "type": "Point"
+    },
+    "id": "ad07fa77-53ee-4f17-b13a-937256856bee",
+    "lat": 48.81503364,
+    "long": 2.11044031,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985489,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11047558, 48.82061523 ],
+      "type": "Point"
+    },
+    "id": "d7057baf-eea0-4782-8270-e19aa433cf37",
+    "lat": 48.82061523,
+    "long": 2.11047558,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987786,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "ac0644fd-ccc3-454a-836c-4ad552973eae",
+    "lat": 48.856563,
+    "long": 2.339093,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462641496,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.10011893, 51.51377752 ],
+      "type": "Point"
+    },
+    "id": "b147369a-0310-42e2-87f5-903d411963c9",
+    "lat": 51.51377752,
+    "long": -0.10011893,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465466664,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3559388, 42.2076009 ],
+      "type": "Point"
+    },
+    "id": "c575b582-2dcf-48b4-b79a-b424e843638a",
+    "lat": 42.2076009,
+    "long": -83.3559388,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381563,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Paris-7E-Arrondissement",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2900502, 48.8573954 ],
+      "type": "Point"
+    },
+    "id": "9eca3564-6d39-4f73-ace8-4f83dfafed8c",
+    "lat": 48.8573954,
+    "long": 2.2900502,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465975082,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3582768, 42.2079667 ],
+      "type": "Point"
+    },
+    "id": "cd24a2c5-84bc-4cfa-b008-8c838925416b",
+    "lat": 42.2079667,
+    "long": -83.3582768,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381240,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Lisieux",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 0.2309363, 49.1365523 ],
+      "type": "Point"
+    },
+    "id": "eea5c596-001c-49a5-b71f-e326aac0bb89",
+    "lat": 49.1365523,
+    "long": 0.2309363,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465886831,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742608688641232896",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11771905, 48.81356954 ],
+      "type": "Point"
+    },
+    "id": "b19e5cc2-d574-423f-8f41-ebbe51cc28b0",
+    "lat": 48.81356954,
+    "long": 2.11771905,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984372,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11071239, 48.81514581 ],
+      "type": "Point"
+    },
+    "id": "da676438-b92b-49b2-a868-ae9b2a5ab420",
+    "lat": 48.81514581,
+    "long": 2.11071239,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985405,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1262575, 51.5187387 ],
+      "type": "Point"
+    },
+    "id": "b056963b-3664-4e78-b890-648694a0edf2",
+    "lat": 51.5187387,
+    "long": -0.1262575,
+    "message": "At the British museum",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465642360,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2891162, 48.8556047 ],
+      "type": "Point"
+    },
+    "id": "b20de41f-8493-4ab1-b42f-2bd9d36a9b4b",
+    "lat": 48.8556047,
+    "long": 2.2891162,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465974780,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3582768, 42.2079667 ],
+      "type": "Point"
+    },
+    "id": "dc345244-f263-4f65-b5fd-9ff0840ebe97",
+    "lat": 42.2079667,
+    "long": -83.3582768,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381283,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5346581, 28.3856481 ],
+      "type": "Point"
+    },
+    "id": "a02bac72-ecce-4492-ba4f-a7ce8d00d1da",
+    "lat": 28.3856481,
+    "long": -81.5346581,
+    "message": "The hotel room at Port Orleans Riverside.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465167572,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/739591643200790529?s=09",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11776456, 48.81356465 ],
+      "type": "Point"
+    },
+    "id": "d1a79806-477a-49b4-894f-be4deb83f861",
+    "lat": 48.81356465,
+    "long": 2.11776456,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984132,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3582768, 42.2079667 ],
+      "type": "Point"
+    },
+    "id": "f8ed040b-106f-4ece-9a16-e5d64fa7ce76",
+    "lat": 42.2079667,
+    "long": -83.3582768,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381260,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11147971, 48.81764424 ],
+      "type": "Point"
+    },
+    "id": "b76b2787-a9c5-4146-97bd-85522b365ec9",
+    "lat": 48.81764424,
+    "long": 2.11147971,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465986529,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3590282, 42.2066282 ],
+      "type": "Point"
+    },
+    "id": "df8bbf75-8c39-40f1-b779-f95b465da609",
+    "lat": 42.2066282,
+    "long": -83.3590282,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381180,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11771373, 48.81357076 ],
+      "type": "Point"
+    },
+    "id": "b54e48cb-c026-436d-b642-7b5d76284c9d",
+    "lat": 48.81357076,
+    "long": 2.11771373,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984462,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.5497441, 28.3734476 ],
+      "type": "Point"
+    },
+    "id": "b43499b3-ac4f-4e76-9da5-2c441c27ed55",
+    "lat": 28.3734476,
+    "long": -81.5497441,
+    "message": "Trying out some sodas of the world.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465223695,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/739827514835603456",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3618211, 42.2054411 ],
+      "type": "Point"
+    },
+    "id": "eb47bdba-b787-473f-8317-f934ced0cd10",
+    "lat": 42.2054411,
+    "long": -83.3618211,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380917,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -110.8250239, 32.3046506 ],
+      "type": "Point"
+    },
+    "id": "a1cfaf70-c78e-4197-8089-c756119333d0",
+    "lat": 32.3046506,
+    "long": -110.8250239,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464328385,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11778959, 48.81355076 ],
+      "type": "Point"
+    },
+    "id": "d24161d1-d65f-405d-af72-2205c6ebf0e1",
+    "lat": 48.81355076,
+    "long": 2.11778959,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984041,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11029276, 48.81523424 ],
+      "type": "Point"
+    },
+    "id": "b917f4dc-64d4-471c-83f5-8a2fbe4dbb54",
+    "lat": 48.81523424,
+    "long": 2.11029276,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985895,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "e519f91d-0543-4e18-8b00-be43c9007dbd",
+    "lat": 48.85744,
+    "long": 2.293885,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462648696,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "bf5d8347-73aa-440e-bd95-8daabff7f744",
+    "lat": 48.861179,
+    "long": 2.33597,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462643896,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1114835, 48.8200999 ],
+      "type": "Point"
+    },
+    "id": "b93be15d-6587-477c-afc2-1ecdd35252b0",
+    "lat": 48.8200999,
+    "long": 2.1114835,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465987316,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3559388, 42.2076009 ],
+      "type": "Point"
+    },
+    "id": "f22e0315-c757-4d8a-b438-fea7a54a58bd",
+    "lat": 42.2076009,
+    "long": -83.3559388,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381503,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "a57b097a-e9c7-4997-9c98-5a86d7a6f25a",
+    "lat": 48.860551,
+    "long": 2.295648,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462647196,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1135405, 51.510625 ],
+      "type": "Point"
+    },
+    "id": "d4076428-6298-474c-8b5e-73ed514921f2",
+    "lat": 51.510625,
+    "long": -0.1135405,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465467801,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3571117, 42.2062165 ],
+      "type": "Point"
+    },
+    "id": "c1e05e3f-8646-4e13-b910-92c8de5fac43",
+    "lat": 42.2062165,
+    "long": -83.3571117,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381624,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "e60b65b7-c036-406e-9760-07f5704cecc3",
+    "lat": 48.856069,
+    "long": 2.340413,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462640896,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "La Bonneville-sur-Iton",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 1.0464533, 48.99542 ],
+      "type": "Point"
+    },
+    "id": "c0fe3b6c-cacd-450a-be3f-a9b86692a005",
+    "lat": 48.99542,
+    "long": 1.0464533,
+    "message": "Train ride",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465884618,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742598730172358657",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1102507, 51.5078931 ],
+      "type": "Point"
+    },
+    "id": "b98987d9-0b5c-4a5e-9eeb-64a73d1ecd4d",
+    "lat": 51.5078931,
+    "long": -0.1102507,
+    "message": "",
+    "neighborhood": "Lambeth",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465465623,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3617469, 42.205332 ],
+      "type": "Point"
+    },
+    "id": "f64b9727-118e-4764-99a2-40466ab33142",
+    "lat": 42.205332,
+    "long": -83.3617469,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380634,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Flêtre",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.6357976, 50.7478374 ],
+      "type": "Point"
+    },
+    "id": "a914469c-6477-4f5b-ba2e-0e1f1d86570e",
+    "lat": 50.7478374,
+    "long": 2.6357976,
+    "message": "Just entered France a bit ago",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465727944,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741942784848846849",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3252681, 48.8690045 ],
+      "type": "Point"
+    },
+    "id": "dba8e7c8-e92f-4a29-a933-9584ca5320ae",
+    "lat": 48.8690045,
+    "long": 2.3252681,
+    "message": "Pret yet again!",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466070052,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743377502794571776",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11046504, 48.81508157 ],
+      "type": "Point"
+    },
+    "id": "ca4a33e1-6146-45d1-9526-b92a42313048",
+    "lat": 48.81508157,
+    "long": 2.11046504,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985569,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Bayeux",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.6980147, 49.2698034 ],
+      "type": "Point"
+    },
+    "id": "e92aea44-bd83-4f4b-b897-552ea927944e",
+    "lat": 49.2698034,
+    "long": -0.6980147,
+    "message": "Back at the Bayeux train station",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465918419,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742741453164576770",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.10822628, 48.81415334 ],
+      "type": "Point"
+    },
+    "id": "c26844ef-1627-4c5e-954a-967b4a71cec2",
+    "lat": 48.81415334,
+    "long": 2.10822628,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465990313,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1272042, 51.5172322 ],
+      "type": "Point"
+    },
+    "id": "bf0dad62-d0f2-4f8a-ae21-05a7a79d7a70",
+    "lat": 51.5172322,
+    "long": -0.1272042,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465421292,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740656448657448960",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3059148, 48.8577486 ],
+      "type": "Point"
+    },
+    "id": "fc3a1432-5997-46ba-8b78-aa79923ab2aa",
+    "lat": 48.8577486,
+    "long": 2.3059148,
+    "message": "Video action, Euro 2016.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465838661,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742407076811415553",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.133093, 51.5116061 ],
+      "type": "Point"
+    },
+    "id": "add2037b-96d5-410b-98f6-67a594204d2c",
+    "lat": 51.5116061,
+    "long": -0.133093,
+    "message": "Dinner",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465495802,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740968721938677760",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3618819, 42.2052833 ],
+      "type": "Point"
+    },
+    "id": "df7e6a4d-e69c-4193-81ec-5539c2a15454",
+    "lat": 42.2052833,
+    "long": -83.3618819,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380735,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Chessy",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.77956272, 48.87317313 ],
+      "type": "Point"
+    },
+    "id": "d1764c83-e86c-4340-8496-b049ed852d42",
+    "lat": 48.87317313,
+    "long": 2.77956272,
+    "message": "More ridesssss",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466266658,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/744202330040479745",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1339186, 51.5129516 ],
+      "type": "Point"
+    },
+    "id": "c2b5fb7f-864d-42e4-8c5e-3ff2a5065ce0",
+    "lat": 51.5129516,
+    "long": -0.1339186,
+    "message": "London ramen",
+    "neighborhood": "Soho",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465414407,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740626584722247680",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3559388, 42.2076009 ],
+      "type": "Point"
+    },
+    "id": "c3cddd0c-40dd-46aa-b444-2c64696df1d4",
+    "lat": 42.2076009,
+    "long": -83.3559388,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381543,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "fca1a410-5b81-4739-be94-c00c124011a5",
+    "lat": 48.857332,
+    "long": 2.338298,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462642396,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "af6591b6-1525-40f3-ade4-7addc0f86980",
+    "lat": 48.853676,
+    "long": 2.338385,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462640596,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11049722, 48.81495642 ],
+      "type": "Point"
+    },
+    "id": "d1bce0f2-b2e5-4c80-b006-f5e1f7974a3e",
+    "lat": 48.81495642,
+    "long": 2.11049722,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985428,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11773187, 48.81356828 ],
+      "type": "Point"
+    },
+    "id": "e0cb53ca-4c88-4c32-953b-95f6552a51fe",
+    "lat": 48.81356828,
+    "long": 2.11773187,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984312,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "cd0c30ec-ee2d-4980-804d-0167d725b9e5",
+    "lat": 48.860798,
+    "long": 2.334372,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462644796,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3594457, 42.2061149 ],
+      "type": "Point"
+    },
+    "id": "c4282125-5742-4d4b-8546-174bcf19883f",
+    "lat": 42.2061149,
+    "long": -83.3594457,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381099,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1323284, 51.5053656 ],
+      "type": "Point"
+    },
+    "id": "d1de277e-7646-4493-9d6b-cc618a3fec06",
+    "lat": 51.5053656,
+    "long": -0.1323284,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465473027,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "ed8aef95-d76f-44cf-9b7a-e5f85854e42a",
+    "lat": 48.862762,
+    "long": 2.301686,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462650196,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Angoville-au-Plain",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -1.25372065, 49.34902576 ],
+      "type": "Point"
+    },
+    "id": "ceaab999-f841-4ae0-bc62-e761d6d74d75",
+    "lat": 49.34902576,
+    "long": -1.25372065,
+    "message": "Spotty service, but this is Utah beach",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465914938,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742726945150930945",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3559388, 42.2076009 ],
+      "type": "Point"
+    },
+    "id": "c43c0e3e-4610-45e6-87b3-977ec53a6eca",
+    "lat": 42.2076009,
+    "long": -83.3559388,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381522,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "b07d2f50-9503-4d81-9c66-af86046a96d4",
+    "lat": 48.858992,
+    "long": 2.293498,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462647496,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "d65938ad-6a36-44e1-b1cc-8e484a8bab18",
+    "lat": 48.860515,
+    "long": 2.33582,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462643596,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3619949, 42.2052809 ],
+      "type": "Point"
+    },
+    "id": "f3212174-1b78-4d89-b185-91742bdf4757",
+    "lat": 42.2052809,
+    "long": -83.3619949,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380795,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "cf95164e-9761-4a3e-b589-4bd252d7255b",
+    "lat": 48.85292,
+    "long": 2.337001,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462639996,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.122849, 48.8147458 ],
+      "type": "Point"
+    },
+    "id": "cb6856d3-6bec-4519-b5f9-03ba701801ba",
+    "lat": 48.8147458,
+    "long": 2.122849,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984432,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "b8b7b723-9afa-421f-af3e-12054137716e",
+    "lat": 48.854305,
+    "long": 2.30541,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462646896,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris-10E-Arrondissement",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3545272, 48.8817895 ],
+      "type": "Point"
+    },
+    "id": "da3fa408-e481-4ebf-819b-2bd3bfafa141",
+    "lat": 48.8817895,
+    "long": 2.3545272,
+    "message": "Gare du nord",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465732230,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741960649660502018",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.13915546, 51.5020764 ],
+      "type": "Point"
+    },
+    "id": "f4ae1c32-a8a5-412b-8903-b7eda815d76e",
+    "lat": 51.5020764,
+    "long": -0.13915546,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465471508,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.10446968, 51.51411068 ],
+      "type": "Point"
+    },
+    "id": "d562a83e-1b77-4089-bd85-93854d13382f",
+    "lat": 51.51411068,
+    "long": -0.10446968,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465466116,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11047966, 48.81502689 ],
+      "type": "Point"
+    },
+    "id": "d1fc91f4-c15d-4b7f-a8a3-ef52347748b9",
+    "lat": 48.81502689,
+    "long": 2.11047966,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465990162,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11046377, 48.81508412 ],
+      "type": "Point"
+    },
+    "id": "c4888d07-c770-4526-830f-0943d10c5d82",
+    "lat": 48.81508412,
+    "long": 2.11046377,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985609,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.0754142, 51.5077153 ],
+      "type": "Point"
+    },
+    "id": "de2884b0-b0e5-41a7-8d89-586e4f385914",
+    "lat": 51.5077153,
+    "long": -0.0754142,
+    "message": "Late lunch at the tower of London. Suzanne got a mixed salad. I got ham, potatoes, carrots and Yorkshire pudding. Dessert is chocolate fudge cake for the Queen's birthday.",
+    "neighborhood": "St Katharine's & Wapping",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465651456,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741621375882825729",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3559388, 42.2076009 ],
+      "type": "Point"
+    },
+    "id": "f988dc73-ae4c-45f1-914c-9ab6a1780504",
+    "lat": 42.2076009,
+    "long": -83.3559388,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381704,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.10955307, 51.50821565 ],
+      "type": "Point"
+    },
+    "id": "d6e24f0a-c957-48e3-a7ba-83e43a91e22a",
+    "lat": 51.50821565,
+    "long": -0.10955307,
+    "message": "",
+    "neighborhood": "Lambeth",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465465135,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 8.5711859, 50.0468641 ],
+      "type": "Point"
+    },
+    "id": "da36030e-89d6-4513-9377-8d2e68e0c268",
+    "lat": 50.0468641,
+    "long": 8.5711859,
+    "message": "Stuck in Frankfurt airport after missing the connecting flight to London because of the delay at Orlando.",
+    "neighborhood": "Frankfurt am Main Süd",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465382637,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740494164496814080",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3592787, 42.2063356 ],
+      "type": "Point"
+    },
+    "id": "c60162f5-54d0-4bd6-8a68-937ba36c6ab3",
+    "lat": 42.2063356,
+    "long": -83.3592787,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381119,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.3572019, 48.8526236 ],
+      "type": "Point"
+    },
+    "id": "decc8219-397e-4bec-a40c-dc2372dceb28",
+    "lat": 48.8526236,
+    "long": 2.3572019,
+    "message": "Got a cerise Bertillon sorbet ",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465820587,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742331184139534337",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Phoenix",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -111.99475071, 33.43356771 ],
+      "type": "Point"
+    },
+    "id": "d7a7e5cc-ae0d-46a5-9572-af4526259a8a",
+    "lat": 33.43356771,
+    "long": -111.99475071,
+    "message": "Flight to Orlando!",
+    "neighborhood": "Central City",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465144259,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/739494451085594624",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3587777, 42.206844 ],
+      "type": "Point"
+    },
+    "id": "db07c161-9665-4c41-b3a6-7328865f4ef8",
+    "lat": 42.206844,
+    "long": -83.3587777,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381200,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "e1b9a533-8d16-4ef3-b6ae-d42e7e83b681",
+    "lat": 48.858153,
+    "long": 2.294379,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462648996,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.0898153, 51.5054057 ],
+      "type": "Point"
+    },
+    "id": "cc1f604e-94a6-4647-bfe1-4d2f99a084f8",
+    "lat": 51.5054057,
+    "long": -0.0898153,
+    "message": "Boroughs market",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465482993,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/740915384769871872",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11779751, 48.8135381 ],
+      "type": "Point"
+    },
+    "id": "df960b7c-5d0f-4ff5-ab62-f5b208de1fff",
+    "lat": 48.8135381,
+    "long": 2.11779751,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465984101,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3563563, 42.2078554 ],
+      "type": "Point"
+    },
+    "id": "dbfd4246-ae25-4a97-bf1c-3a901d08c9d6",
+    "lat": 42.2078554,
+    "long": -83.3563563,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381442,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "Chessy",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.7781354, 48.8669533 ],
+      "type": "Point"
+    },
+    "id": "f351c3c7-437e-4cbf-89bd-7e42bdb24465",
+    "lat": 48.8669533,
+    "long": 2.7781354,
+    "message": "Chez Remy restaurant was delicioso",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466164985,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743774035306156032",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Orlando",
+    "country": "United States",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -81.54737666, 28.37337133 ],
+      "type": "Point"
+    },
+    "id": "d3713db8-bfa7-4213-bf4c-e845c858fcec",
+    "lat": 28.37337133,
+    "long": -81.54737666,
+    "message": "Test track! It's not raining yet",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465221687,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/739819386614190080",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.358402, 42.207782 ],
+      "type": "Point"
+    },
+    "id": "e49f5d2e-e4cf-45c0-a7d4-fe4ff82d5099",
+    "lat": 42.207782,
+    "long": -83.358402,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464381220,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.0781675, 51.5078777 ],
+      "type": "Point"
+    },
+    "id": "eba3cb0e-995c-410c-83cc-77a472a8a695",
+    "lat": 51.5078777,
+    "long": -0.0781675,
+    "message": "The guns are going off.",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465646692,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741601835593519104",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -83.3618261, 42.2054067 ],
+      "type": "Point"
+    },
+    "id": "f4a95301-5ec5-45b8-ada8-19194945f998",
+    "lat": 42.2054067,
+    "long": -83.3618261,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1464380338,
+      "timezone": "+00:00"
+    },
+    "user_id": "129e0f42-899b-4afc-9ecd-9644f8984142"
+  },
+  {
+    "id": "e2e7d506-328b-48aa-80a7-40ce507ad55e",
+    "lat": 48.853698,
+    "long": 2.314733,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462646596,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "ede78cf0-6ca6-44a6-86c6-fbef4b0907c8",
+    "lat": 48.858195,
+    "long": 2.293124,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462649296,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11117358, 48.81522394 ],
+      "type": "Point"
+    },
+    "id": "f04662d7-261f-4003-a0c7-9169d0ca2a82",
+    "lat": 48.81522394,
+    "long": 2.11117358,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985385,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.1290868, 51.499621 ],
+      "type": "Point"
+    },
+    "id": "f6a8504f-1ab8-476d-8fbc-f9ad9f9cb295",
+    "lat": 51.499621,
+    "long": -0.1290868,
+    "message": "",
+    "neighborhood": "Westminster",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465572307,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/741289672530223104",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "id": "e55e3b3b-b722-4d12-92f5-b2c75f20c356",
+    "lat": 48.857868,
+    "long": 2.336195,
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1462642696,
+      "timezone": "+00:00"
+    },
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.11005072, 48.81554893 ],
+      "type": "Point"
+    },
+    "id": "f1273486-0301-4e1c-9819-87f962d9ec9b",
+    "lat": 48.81554893,
+    "long": 2.11005072,
+    "message": "",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465985955,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.2938859, 48.8527571 ],
+      "type": "Point"
+    },
+    "id": "fe08a47d-5a59-4f81-a025-7ba10ea71124",
+    "lat": 48.8527571,
+    "long": 2.2938859,
+    "message": "Leaving for the Versailles bike tour",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465973437,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742972438032592896",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Versailles",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.1250782, 48.7984767 ],
+      "type": "Point"
+    },
+    "id": "fa8e8b3b-4fcc-4527-b948-a7a75cd53dec",
+    "lat": 48.7984767,
+    "long": 2.1250782,
+    "message": "Off the bikes!",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465997783,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Bayeux",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.7094161, 49.2674684 ],
+      "type": "Point"
+    },
+    "id": "ee2aaf24-ecae-4d39-b788-558ce809f545",
+    "lat": 49.2674684,
+    "long": -0.7094161,
+    "message": "On the shuttle bus",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465889889,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742621844772028416",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Chessy",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.7773162, 48.8724814 ],
+      "type": "Point"
+    },
+    "id": "f34421d9-2d20-42f8-a0b1-3f8d98a0c379",
+    "lat": 48.8724814,
+    "long": 2.7773162,
+    "message": "Crepes....hmmm... should I?",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466184935,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743859471542214656",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Chessy",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ 2.7786355, 48.8741812 ],
+      "type": "Point"
+    },
+    "id": "ff836b2b-7c00-4703-a3ec-bb01513d3679",
+    "lat": 48.8741812,
+    "long": 2.7786355,
+    "message": "Force Friday!",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1466190580,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/743883108483661826",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  },
+  {
+    "city": "Colleville-sur-Mer",
+    "country": "France",
+    "geo_location": {
+      "$reql_type$": "GEOMETRY",
+      "coordinates": [ -0.84645494, 49.36094134 ],
+      "type": "Point"
+    },
+    "id": "ff93ad3c-07ba-4904-b8a3-dd28db8a53f6",
+    "lat": 49.36094134,
+    "long": -0.84645494,
+    "message": "Omaha Beach",
+    "time": {
+      "$reql_type$": "TIME",
+      "epoch_time": 1465893235,
+      "timezone": "+00:00"
+    },
+    "twitterUrl": "https://twitter.com/sdkraemer/status/742635404973641729",
+    "user_id": "3dbd0fc1-c2a0-47b0-8833-c4a2913b4ba0"
+  }
+]

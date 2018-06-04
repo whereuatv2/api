@@ -1,0 +1,58 @@
+version: '2'
+services:
+  #nginx:
+  #  container_name: nginx
+  #  image: whereuatv2/nginx
+  #  build: 
+  #    context: .
+  #    dockerfile: nginx.dockerfile
+  #  volumes:
+  #    - ./web/dist/:/var/www/public/
+  #  links:
+  #      - node-1:node-1
+  #  ports:
+  #    - "80:80"
+  #    - "443:443"
+  #  networks:
+  #    - nodeapp-network
+  node-1:
+    container_name: whereuatv2-api
+    image: whereuatv2/api
+    build:
+      context: .
+      dockerfile: node.dockerfile
+    volumes:
+      - ./:/var/www/
+    links:
+      - rethinkdb:rethinkdb
+    ports:
+      - "3000:3000"
+      - "7000:7000"
+    networks:
+      - nodeapp-network
+    env_file:
+      - ./docker/env/app.${WHEREUATNG_API_APP_ENV}.env
+  web-1:
+    image: whereuatv2/web
+    ports:
+      - "80:80"
+      - "443:443"
+    networks:
+      - nodeapp-network
+    links:
+      - node-1:node-1
+  rethinkdb:
+    container_name: whereuatv2-rethinkdb
+    image: rethinkdb:latest
+    ports:
+      - "8080:8080"
+    #volumes:
+    #  - ./data:/data
+    networks:
+      - nodeapp-network
+volumes:
+  rethinkdata:
+    external: true
+networks:
+  nodeapp-network:
+    driver: bridge

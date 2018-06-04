@@ -1,0 +1,6 @@
+node_modules
+.certs
+.idea/*
+docker/env/web.env
+docker/env/app.development.env
+data
