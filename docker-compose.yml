@@ -30,7 +30,7 @@ services:
     image: rethinkdb:latest
     ports:
       - "8080:8080"
-      #do these ports need to be opened to work? Can someone hack it?
+      #do these ports need to be opened to work?
     #volumes:
     #  - ./data:/data
     networks:

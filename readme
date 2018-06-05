@@ -1,4 +1,6 @@
--Setup environment variable WHEREUAT_ENV to development or production
+- Environment variables to setup
+  - WHEREUATNG_API_APP_ENV = (development|production)
+  - WHEREUAT_ENV = (development|production)
 - From api directory (Not sure if it matters)  run:
   docker volume create --name rethinkdata
 - From web directory run:
