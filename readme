@@ -1,24 +1,36 @@
-- Environment variables to setup
-  - WHEREUATNG_API_APP_ENV = (development|production)
-  - WHEREUAT_ENV = (development|production)
-- From api directory (Not sure if it matters)  run:
-  docker volume create --name rethinkdata
-- From web directory run:
-  docker build --tag whereuatv2/web .
-- From api directory:
-  docker-compose build
-  docker-compose up -d
-
-From website directory run:
-  development locally:
-    docker build --tag whereuatv2/web --file development.Dockerfile .
-  production:
+INITIAL SETUP:
+  - Environment variables to setup
+    - WHEREUATNG_API_APP_ENV = (development|production)
+    - WHEREUAT_ENV = (development|production)
+  - From api directory (Not sure if it matters)  run:
+    docker volume create --name rethinkdata
+  - From web directory run:
     docker build --tag whereuatv2/web .
-  docker build --tag whereuatv2/web . --build-arg target=development 
-  docker build --tag whereuatv2/web . --build-arg target=production
+  - From api directory:
+    docker-compose build
+    docker volume create --name=rethinkdata
+    docker-compose up -d
 
 
+  From website directory run:
+    development locally:
+      docker build --tag whereuatv2/web --file development.Dockerfile .
+    production:
+      docker build --tag whereuatv2/web .
+    docker build --tag whereuatv2/web . --build-arg target=development 
+    docker build --tag whereuatv2/web . --build-arg target=production
 
 NOTES:
   - Bashing into web container
     docker exec -it api_web-1_1 /bin/sh
+
+DROPLET INSTRUCTIONS:
+  - set environment variables in "nano ~/.bashrc" then "source ~/.bashrc"
+  - docker pull whereuatv2/api:latest
+  - docker pull whereuatv2/web:latest
+  - git pull
+  - run this in ~/api directory to get latest docker-compose
+  - docker-compose build
+  - docker-compose up -d
+
+

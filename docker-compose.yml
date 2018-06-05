@@ -15,7 +15,11 @@ services:
     networks:
       - nodeapp-network
     env_file:
-      - ./docker/env/app.${WHEREUATNG_API_APP_ENV}.env
+      - AUTH0_CLIENT_ID=${WHEREUAT_AUTH0_CLIENTID}
+      - AUTH0_CLIENT_SECRET=${WHEREUAT_AUTH0_CLIENT_SECRET}
+      - AUTH0_CLIENT_AUDIENCE=${WHEREUAT_AUTH0_CLIENT_AUDIENCE}
+      - TWITTER_SECRET=${WHEREUAT_TWITTER_SECRET}
+      - TWITTER_KEY=${WHEREUAT_TWITTER_KEY}
   web-1:
     image: whereuatv2/web
     ports:
