@@ -12,6 +12,7 @@ services:
       - rethinkdb:rethinkdb
     ports:
       - "3000:3000"
+      - "7000:7000"
     networks:
       - nodeapp-network
     env_file:
@@ -30,7 +31,6 @@ services:
     image: rethinkdb:latest
     ports:
       - "8080:8080"
-      #do these ports need to be opened to work? Can someone hack it?
     #volumes:
     #  - ./data:/data
     networks:
